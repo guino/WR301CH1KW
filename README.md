@@ -6,7 +6,9 @@ Needless to say I had to scour an ocean of cheap IP camera options and the only 
 I ended up messaging a few vendors and posting a few questions on products from aliexpress and amazon and did not find anything that I was certain had NFS support (at a reasonable price), the closest thing I found was this CAD$30 (US$20) camera (shipping included) which had a clear description saying "Support Onvif (NVR , NAS storage support)". Now I suspected (and was right) that this would not have true 'NAS' support as it claims but thought it was worth a shot for the price.
 ##### Hardware
 The hardware model is listed as WR301CH1KW (label and in the device) but I suspect this is just an OEM branding from the actual manufacturer which I am certain makes many other cameras in the market (click image for link or search aliexpress):
+
 [![Camera](https://raw.githubusercontent.com/guino/WR301CH1KW/main/img/WR301CH1KW.png)](https://www.aliexpress.com/item/4001097806137.html)
+
 I figured for the price I paid the worst that could happen was for me to just install a microSD card and use it with the provided features, but more importantly I knew in advance the device has a web-page interface which could be the gateway for some exploiting and customization:
 ![Web Interface](https://raw.githubusercontent.com/guino/WR301CH1KW/main/img/webif.png)
 ###### Penetration test
